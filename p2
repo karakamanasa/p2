@@ -1,0 +1,13 @@
+a=int(input('enter a'))
+b=int(input('enter b'))
+c=a-b
+print("the difference is",c)
+
+
+
+
+
+output:
+enter a 24
+enter b 21
+the difference is 3
